@@ -1,0 +1,7 @@
+| ROL NO. | NAME | SOFTWARE ENG.| DSA | DBMS |
+|---|---|---|---|---|
+| 002111001042 | IMAMUL HASAN | 85 | 80 | 91 |
+| 002111001040| ASIF IKBAL  |89   |  90 |  87 |
+| 002111001037  |   MD AQIB| 79  |81   |   80|
+| 002111001071  |   ABHAY KUMAR GUPTA| 85  |89   |   97|
+| 002111001071  |   ABHAY| 85  |89   |   97|
