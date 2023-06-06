@@ -1,7 +1,7 @@
 # SE-ASS2-PROJECT
 
-| aqib  | dtsfg  | gfdtrruygf   | fdytrfyu   |   |
+| ROL NO. | NAME | SOFTWARE ENG.| DSA | DBMS |
 |---|---|---|---|---|
-| ghfdghfh  |  fdfdgfd |   |   |   |
+| 002111001042 | IMAMUL HASAN | 85 | 80 | 91 |
 |   |   |   |   |   |
 |   |   |   |   |   |
