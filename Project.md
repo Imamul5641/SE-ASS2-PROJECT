@@ -1,3 +1,5 @@
 | ROL NO. | NAME | SOFTWARE ENG.| DSA | DBMS |
 |---|---|---|---|---|
 | 002111001042 | IMAMUL HASAN | 85 | 80 | 91 |
+| 002111001037 | MD AQIB | 80 | 70 | 81 |
+
